@@ -21,6 +21,10 @@ https://github.com/srimathi1511/Car-Parking-System/assets/115611319/e70598bf-e0f
 
 CREDITS for the animated video: https://invideo.io/
 
+Project Overview
+
+https://github.com/srimathi1511/Car-Parking-System/assets/115611319/890f9b93-f37f-4f12-b1bd-7a25e84338cd
+
 
 
 
