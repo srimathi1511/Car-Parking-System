@@ -11,6 +11,9 @@ To optimize the efficiency and user experience of the car parking system by impl
 
 ## ONE API Refinement
 
+![image](https://github.com/srimathi1511/Car-Parking-System/assets/115611319/41df5713-872b-429d-838f-2bf5a96c489b)
+
+
 I have employed the OneDNN framework to enhance the performance of our car parking system by leveraging low-level compute optimizations. Optimizing a car parking system using OneDNN involves strategic improvements in key areas to boost overall efficiency. Implement the YOLO object detection framework using the  programming model. This allows us to harness parallel processing capabilities across diverse hardware architectures, including CPUs, GPUs, and accelerators. Explore the potential of offloading computationally intensive tasks related to vehicle detection to GPUs using OneDNN's capabilities, resulting in notable speed improvements.
 Utilize profiling tools to systematically identify and address performance  within the car parking system. Stay abreast of the latest software and driver releases, ensuring compatibility with OneDNN and YOLO optimizations. Engage with relevant support resources provided by Intel for targeted guidance in optimizing specific aspects of the car parking system, leveraging the full potential of OneDNN and YOLO for an advanced and efficient machine learning-based parking solution.
 
