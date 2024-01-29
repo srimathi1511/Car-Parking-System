@@ -25,7 +25,9 @@ CREDITS for the animated video: https://invideo.io/
 
 https://github.com/srimathi1511/Car-Parking-System/assets/115611319/890f9b93-f37f-4f12-b1bd-7a25e84338cd
 
+# Conclusion
 
+By integrating YOLO one DNN, we have not only addressed the challenges associated with conventional parking systems but have also set a new standard for intelligent parking solutions. The successful implementation of this technology not only enhances safety and security within parking facilities but also showcases the potential for broader applications in diverse domains, including security systems, traffic management, and urban planning.
 
 
 
