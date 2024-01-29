@@ -1,7 +1,7 @@
 # Car-Parking-System
 Identifies vehicles and human in given input data
  
-##INTRODUCTION
+INTRODUCTION
 
 In the domain of smart parking systems, the accurate detection of vehicles using advanced machine learning techniques is paramount. This research project concentrates on developing a robust car detection system based on YOLO . The proposed solution aims to revolutionize traditional car parking systems, enhancing efficiency and user experience. By employing state-of-the-art object detection algorithms, the system seeks to optimize parking space utilization, improve security, and provide real-time insights for effective parking management. This research contributes to the ongoing evolution of intelligent transportation systems, fostering a seamless and technologically advanced approach to car parking.
 
