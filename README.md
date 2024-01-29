@@ -16,7 +16,6 @@ Utilize profiling tools to systematically identify and address performance  with
 
 ![image](https://github.com/srimathi1511/Car-Parking-System/assets/115611319/8715a181-edd8-426a-a1fc-c2b0f4136400)
 
-![carpark2](https://github.com/srimathi1511/Car-Parking-System/assets/115611319/2d017a13-eaa7-47c7-9847-dbdcfd03cffc)
 
 
 
