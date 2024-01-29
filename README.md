@@ -1,4 +1,4 @@
-# Car-Parking-System
+# Smart-Parking-System
 Identifies vehicles and human in given input data
  
 ## INTRODUCTION
