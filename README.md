@@ -27,7 +27,7 @@ Utilize profiling tools to systematically identify and address performance  with
 https://github.com/srimathi1511/Car-Parking-System/assets/115611319/e70598bf-e0f4-4128-b337-f99664f2a39a
 
 
-These types are issues are faced during Vehicle Parking
+These types are issues are faced during Vehicle Parking.
 CREDITS for the animated video: https://invideo.io/
 
 ##  Project Overview
